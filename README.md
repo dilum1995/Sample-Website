@@ -1,7 +1,7 @@
-# Hello I am Dilum 
+# Hello I am Pasindu Sandeepa
 
 
-I am curently studying at **IIT**. Following are my noticible points.
+I am curently studying at **NSBM**. Following are my noticible points.
 
 - item 1
 - item 2
@@ -11,4 +11,4 @@ I am curently studying at **IIT**. Following are my noticible points.
 2. two
 3. three
 
-[Visit my site](https://dilum1995.github.io/)
+[Visit my site](https://github.com/PasinduSan)
