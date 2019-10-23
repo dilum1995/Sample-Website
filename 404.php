@@ -14,7 +14,7 @@ get_header(); ?>
 
 			<section class="error-404 not-found">
 				<header class="page-header">
-					<h1 class="page-title"><?php esc_html_e( 'Oops! That page can&rsquo;t be found.', 'shapely' ); ?></h1>
+					<h1 class="page-title"><?php esc_html_e( 'ooops!! That page doesnot contains anything...!', 'shapely' ); ?></h1>
 				</header><!-- .page-header -->
 
 				<div class="page-content">
@@ -35,7 +35,7 @@ get_header(); ?>
 						<?php
 							wp_list_categories( array(
 								'orderby'    => 'count',
-								'order'      => 'DESC',
+								'order'      => 'ACS',
 								'show_count' => 1,
 								'title_li'   => '',
 								'number'     => 10,
