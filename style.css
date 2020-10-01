@@ -89,7 +89,7 @@ abbr[title] {
 }
 
 b, strong {
-    font-weight: bold;
+    font-weight: bolder;
 }
 
 dfn {
@@ -115,6 +115,7 @@ sub, sup {
     line-height: 0;
     position: relative;
     vertical-align: baseline;
+    font-family: sans-serif;
 }
 
 sup {
@@ -523,7 +524,7 @@ a:hover, a:active {
 }
 
 .site-title {
-    font-size: 24px;
+    font-size: 22px;
     line-height: 52px;
     color: #666;
     transition: all 0.3s ease;
@@ -1358,6 +1359,7 @@ nav {
 .nav-bar a {
     display: inline-block;
     height: 55px;
+    font-family: sans-serif;
 }
 
 .logo {
